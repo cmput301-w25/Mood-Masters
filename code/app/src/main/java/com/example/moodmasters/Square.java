@@ -1,6 +1,7 @@
 package models;
 
 public class Square extends Shape {
+    String color = "blue";
     private double side;
 
     public Square(double side) {
