@@ -6,6 +6,5 @@ public class Octagon extends Shape {
 
     @Override
     public void draw(Canvas canvas, Paint paint) {
-
     }
 }
